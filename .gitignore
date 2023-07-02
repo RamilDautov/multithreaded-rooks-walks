@@ -1,0 +1,4 @@
+build*
+.vscode
+version.info.cmake
+external.deps.cmake
