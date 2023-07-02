@@ -20,7 +20,7 @@ add_executable(
   ${TARGET}
     ${SOURCES}
 )
-# Set the Release configuration flags
+
 target_link_libraries(
   ${TARGET}
     ${CMAKE_THREAD_LIBS_INIT}
